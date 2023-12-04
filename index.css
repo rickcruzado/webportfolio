@@ -1,0 +1,102 @@
+index.css
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+/*Google Fonts*/
+
+* {
+	font-family: "Roboto", monospace;
+	font-size: 20px;
+}
+
+
+
+#aglogo {
+	height:5rem;
+	margin: .5rem;
+	display: inline;
+
+}
+
+.nav-item {
+		font-size: 1.5rem;
+
+}	
+
+#bio {
+		font-size: 1.5rem;
+
+}
+
+#profilepic {
+	width:100px ;
+	height: 260px;
+
+}
+
+.landing {
+	background-color: white;
+
+}
+
+#h1 {
+	font-weight: bold;
+	font-size: 2rem;
+}
+
+#h2 {
+	text-align: center;
+	font-weight: bold;
+	font-size: 3rem;
+	color: black;
+	
+	}
+
+#card-body {
+	margin-top: 1rem;
+
+}
+
+#card-font {
+	color: orangered;
+	font-size: 2rem;
+	font-weight: bold;
+}
+
+#h3	{
+
+padding-left: 3px;
+font-weight: bold;
+	font-size: 3rem;
+	color: whitesmoke;
+
+}
+
+#image-contact	{
+	padding: 3;
+	margin: 3;
+	background-color: none;
+
+
+}
+
+#services_image {
+	height: 250px;
+	
+}
+html	{
+	scroll-behavior: smooth;
+}
+
+#contactlogo {
+	height:100px ;
+	width: 100px ;
+}
+
+#footer {
+	font-size: 3rem;
+
+}
