@@ -2,7 +2,7 @@
 
     "capstone": {
 
-        "liveLink": "<github page link>",
+        "liveLink": "https://rickcruzado.github.io/webportfolio/",
 
         "name": "<Rick Obert Cruzado>",
 
