@@ -2,7 +2,7 @@
 
     "capstone": {
 
-        "liveLink": "https://rickcruzado.github.io/webportfolio/",
+        "liveLink": "https://git.zuitt.co/B337/individual-cruzado-rick/src/branch/main/frontend/index.js",
 
         "name": "<Rick Obert Cruzado>",
 
